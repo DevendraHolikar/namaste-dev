@@ -1,0 +1,25 @@
+{
+  "name": "devendra-react",
+  "version": "1.0.0",
+  "description": "namaste devendra ",
+  "scripts": {
+    "start": "parcel index.html",
+    "build":"parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/DevendraHolikar/namaste-dev.git)"
+  },
+  "keywords": [],
+  "author": "devendra-holikar",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.16.3"
+  },
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  },
+  "browserslist":["last 2 versions"]
+}
