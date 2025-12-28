@@ -1,3 +1,108 @@
-#header,.name{
-    color: red;
+@import "tailwindcss";
+
+
+/* * {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
 }
+
+#header,
+.name {
+  color: red;
+}
+
+.app {
+  width: 100%;
+  max-width: 1920px;
+  margin: auto;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border: 1px solid #000000;
+  margin-top: 20px;
+}
+.logo-container,
+.nav-iteam {
+  flex: 1;
+}
+
+.header .logo {
+  width: 100%;
+  max-width: 108px;
+}
+
+.nav-iteam ul {
+  display: flex;
+  list-style: none;
+  justify-content: space-evenly;
+      align-items: center;
+}
+
+.nav-iteam ul li {
+  font-size: 18px;
+}
+
+.login-btn{
+  padding: 10px;
+  cursor: pointer;
+}
+.search {
+  padding: 10px;
+}
+
+.res-container {
+  display: grid;
+  grid-gap: 1rem;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+}
+.res-card {
+  padding: 10px;
+  width: 100%;
+  max-width: 230px;
+  background-color: rgb(216, 216, 216);
+}
+.res-card:hover {
+  border: 1px solid #000000;
+  cursor: pointer;
+}
+
+.res-logo {
+  width: 100%;
+}
+.filter-button {
+  padding: 5px;
+  margin-top: 20px;
+  cursor: pointer;
+  margin-bottom: 20px;
+}
+
+.Shimmer-conatiner {
+   display: grid;
+  grid-gap: 1rem;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+}
+
+.Shimmer-card {
+  width: 100%;
+  max-width: 230px;
+  height: 200px;
+  margin-top: 20px;
+  background-color: rgb(216, 216, 216);
+}
+
+.filter{
+  display: flex;
+  align-items: center;
+    justify-content: space-between;
+}
+
+.search-btn{
+  padding: 10px;
+  margin-left: 10px;
+} */

@@ -4,7 +4,7 @@
   "description": "namaste devendra ",
   "scripts": {
     "start": "parcel index.html",
-    "build":"parcel build index.html",
+    "build": "parcel build index.html",
     "test": "jest"
   },
   "repository": {
@@ -18,8 +18,15 @@
     "parcel": "^2.16.3"
   },
   "dependencies": {
+    "@reduxjs/toolkit": "^2.11.2",
+    "@tailwindcss/postcss": "^4.1.18",
     "react": "^18.0.0",
-    "react-dom": "^18.0.0"
+    "react-dom": "^18.0.0",
+    "react-redux": "^9.2.0",
+    "react-router-dom": "^7.11.0",
+    "tailwindcss": "^4.1.18"
   },
-  "browserslist":["last 2 versions"]
+  "browserslist": [
+    "last 2 versions"
+  ]
 }
